@@ -4,8 +4,7 @@
 - Estudando Python
 - Procuro oportunidades na área
 
-<div>
- https://github-readme-stats.vercel.app/api?username=nathansantos&show_icons=true&theme=transparent)
+<div> https://githubreadmestats.vercel.app/apiusername=nathansantos&show_icons=true&theme=transparent)
 </div>
 
 <div style="display: inline_block"><br>
