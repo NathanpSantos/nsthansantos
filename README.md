@@ -6,8 +6,8 @@
 
 <div> 
  <a href="https://github.com/NathanpSantos">
- <img heigth="100em" src="https://github-readme-stats.vercel.app/ap1?username=NathanpSantos&show_icons=true&theme=dracula&include_all_comits=true*count_private=true"/>
- <img heigth="100em" src="https://github-readme-stats.vercel.app/ap1/top-langs/?username=NathanpSantos&layout=compact&langs_count=16&theme=dracula"/> 
+ <img heigth="180em" src="https://github-readme-stats.vercel.app/ap1?username=NathanpSantos&show_icons=false&theme=dracula&include_all_comits=true*count_private=true"/>
+ <img heigth="180em" src="https://github-readme-stats.vercel.app/ap1/top-langs/?username=NathanpSantos&layout=compact&langs_count=16&theme=dracula"/> 
 </div>
 
 <div style="display: inline_block"><br>
